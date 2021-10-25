@@ -40,4 +40,4 @@ Real Author > Aryan Nafas
 [![Youtube](https://img.shields.io/badge/Youtube-Subscribe-green?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UC6PezjDN1ofLSXn3onPxzpQ)
 [![Instagram](https://img.shields.io/badge/Instagram-mohammad-green?style=for-the-badge&logo=instagram)](https://Instagram.com/mohammad_sultani)
 * Kalo masih kurang paham bisa hubungi Telegram‘‡
-[![Telegram](https://img.shields.io/badge/Telegram-Mohammad-brightgreen?style=for-the-badge&logo=Telegram)](https://t.me/sultani1122)
+[![Telegram](https://img.shields.io/badge/Telegram-joya-brightgreen?style=for-the-badge&logo=Telegram)](https://t.me/PUBGandfacebook2022)
