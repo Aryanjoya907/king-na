@@ -9,7 +9,7 @@ pip install bs4
 pip install requests
 pip install mechanize
 rm -rf Fast_clone
-git clone https://github.com/kingjoya111/Fast_clone
+git clone https://github.com/aryanjoya907/Fast_clone
 cd Fast_clone 
 ls
 chmod +x *
